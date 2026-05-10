@@ -154,11 +154,10 @@ bookai/
 | Name | Roll No |
 |---|---|
 | Md Amanullah | 202456266 |
-| Ashish Kumar | 202456244 |
-| Aditya Kumar | 202456245 |
+| Vikash Kumar | 202456259 |
 
 *NIST University, Berhampur — B.Tech Project, April 2026*
-*Under the guidance of Dr. Gayatri Panda*
+*Under the guidance of Dr. Brojo Kishore Mishra*
 
 ---
 
